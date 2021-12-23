@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormGamVector2D", "WinFormGamVector2D\WinFormGamVector2D.csproj", "{BC245ED8-ADBF-4E93-9376-B14CD283FFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC245ED8-ADBF-4E93-9376-B14CD283FFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC245ED8-ADBF-4E93-9376-B14CD283FFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC245ED8-ADBF-4E93-9376-B14CD283FFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC245ED8-ADBF-4E93-9376-B14CD283FFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE86EF7-DF19-42E4-8DF9-5643DF7DC8BA}
+	EndGlobalSection
+EndGlobal
